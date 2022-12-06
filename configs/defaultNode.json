@@ -1,0 +1,66 @@
+[
+  {
+    "unShowUrl": true,
+    "name": "Default",
+    "area": "production",
+    "protocol": "https",
+    "host": "47.99.40.133",
+    "port": "443",
+    "url": "https://47.99.40.133",
+    "chainId": "aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906"
+  },
+  {
+    "name": "Newdex",
+    "area": "production",
+    "protocol": "https",
+    "host": "eos.newdex.one",
+    "port": "443",
+    "url": "https://eos.newdex.one",
+    "chainId": "aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906"
+  },
+  {
+    "name": "Eosflare",
+    "area": "production",
+    "protocol": "https",
+    "host": "api.eosflare.io",
+    "port": "443",
+    "url": "https://api.eosflare.io",
+    "chainId": "aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906"
+  },
+  {
+    "name": "TP",
+    "area": "production",
+    "protocol": "https",
+    "host": "eospush.tokenpocket.pro",
+    "port": "443",
+    "url": "https://eospush.tokenpocket.pro",
+    "chainId": "aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906"
+  },
+  {
+    "name": "Greymass",
+    "area": "production",
+    "protocol": "https",
+    "host": "eos.greymass.com",
+    "port": "443",
+    "url": "https://eos.greymass.com",
+    "chainId": "aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906"
+  },
+  {
+    "name": "Laomao",
+    "area": "production",
+    "protocol": "https",
+    "host": "api.eoslaomao.com",
+    "port": "443",
+    "url": "https://api.eoslaomao.com",
+    "chainId": "aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906"
+  },
+  {
+    "name": "Eosn",
+    "area": "production",
+    "protocol": "https",
+    "host": "api.eosn.io",
+    "port": "443",
+    "url": "https://api.eosn.io",
+    "chainId": "aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906"
+  }
+]

@@ -4,9 +4,9 @@
     "name": "Default",
     "area": "production",
     "protocol": "https",
-    "host": "47.99.40.133",
+    "host": "18.139.219.215",
     "port": "443",
-    "url": "https://47.99.40.133",
+    "url": "https://18.139.219.215",
     "chainId": "aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906"
   },
   {
